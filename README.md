@@ -17,7 +17,6 @@ You may also see any lint errors in the console.
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
 
@@ -25,10 +24,16 @@ Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
 
+### `Fun little quote randomizer I did for a personal project with React`
 
 
 
 
-https://github.com/user-attachments/assets/54938573-38ed-45f2-bba5-4dfac4b418a1
+https://github.com/user-attachments/assets/f96c9283-60c6-44d3-aba3-6280e672332d
+
+
+
+
+
 
 
