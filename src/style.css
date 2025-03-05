@@ -1,0 +1,72 @@
+/*################ from app.js. ################*/
+.quote-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh; /* Full height */
+    position: relative;
+    flex-direction: column;
+}
+
+.quote {
+    background: #ffffffbd;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 38%;
+}
+.button-hide{
+    border: none;
+    background:none;
+}
+/*################ end ################*/
+
+/*################ from heading.js ################*/
+.heading-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: -webkit-fill-available;
+    position: relative;
+    flex-direction: column;
+}
+
+.heading {
+    background: #ffffffbd;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 38%;
+    margin-bottom: 20px;
+}
+/*################ end ################*/
+/*################ from ParticleRing.jsx ################*/
+
+#spiral{
+    position: fixed!important;
+    background: darkturquoise;
+}
+h1#drag {
+    position: absolute;
+    color: white;
+}
+/*################ end ################*/
+
+/* ################ from button.jsx ################*/
+button#view{
+    background: aquamarine;
+    width: 142px;
+    padding: 6px;
+    border: none;
+    border-radius: 6px;
+    height: 32px;
+}
+/* ################ end ################*/
