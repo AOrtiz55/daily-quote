@@ -26,7 +26,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 ### `Fun little quote randomizer I did for a personal project with React`
 
-
+view the live demo here https://codesandbox.io/p/sandbox/brave-black-s2wmgh
 
 
 https://github.com/user-attachments/assets/f96c9283-60c6-44d3-aba3-6280e672332d
